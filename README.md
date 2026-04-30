@@ -1,5 +1,4 @@
-#  Timer Challenge
-
+# Timer Challenge
 
 **Test your timing precision!**  
 A reaction and timing game built with **React + Vite**.
@@ -8,7 +7,7 @@ Stop the timer as close as possible to the target time to maximize your score. T
 
 ![Timer Challenge Preview](https://via.placeholder.com/800x450/0ea5e9/1e2937?text=Timer+Challenge)
 
-*(Replace this image with a real screenshot or GIF of the game once uploaded to GitHub)*
+_(Replace this image with a real screenshot or GIF of the game once uploaded to GitHub)_
 
 ## Features
 
@@ -23,29 +22,33 @@ Stop the timer as close as possible to the target time to maximize your score. T
 - Precise timer management using `useRef` and `useEffect`
 - Fully responsive design
 
-##  Tech Stack
+## Tech Stack
 
 - **React 18** (Hooks, Portals)
 - **Vite** — Blazing fast build tool
 - JavaScript (ES6+)
 - Modern CSS (Flexbox & Gradients)
 
-##  Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
+
 - Node.js (v18 or higher)
 - npm or yarn
 
 ### Steps
 
 # Clone the repository
+
 git clone https://github.com/your-username/timer-challenge.git
 cd timer-challenge
 
 # Install dependencies
+
 npm install
 
 # Start development server
+
 npm run dev
 
 #Build for Production
@@ -55,24 +58,24 @@ npm run preview
 ## Project Structure
 
 ├── public
-│   └── vite.svg
+│ └── vite.svg
 ├── src
-│   ├── assets
-│   │   └── react.svg
-│   ├── components
-│   │   ├── Player.jsx
-│   │   ├── ResultModal.jsx
-│   │   └── TimerChallenge.jsx
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
+│ ├── assets
+│ │ └── react.svg
+│ ├── components
+│ │ ├── Player.jsx
+│ │ ├── ResultModal.jsx
+│ │ └── TimerChallenge.jsx
+│ ├── App.jsx
+│ ├── index.css
+│ └── main.jsx
 ├── .gitignore
 ├── index.html
 ├── package-lock.json
 ├── package.json
 └── vite.config.js
 
-## How to play 
+## How to play
 
 1.Choose a difficulty level from the four cards
 2.Click "Start Challenge"
@@ -104,8 +107,5 @@ Internationalization (i18n)
 Multiplayer mode
 
 ## License
+
 This project is licensed under the MIT License.
-
-
-
-
