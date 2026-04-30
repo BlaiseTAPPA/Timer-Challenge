@@ -36,8 +36,8 @@ Stop the timer as close as possible to the target time to maximize your score. T
 
 #### Clone the repository
 
-git clone https://github.com/your-username/timer-challenge.git
-cd timer-challenge
+- https://github.com/BlaiseTAPPA/Timer-Challenge.git
+- cd timer-challenge
 
 #### Install dependencies
 
